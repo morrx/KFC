@@ -6,6 +6,7 @@ Changelogs:
             
             +     Backtrack Hitbox
             ~     Offscreen Indicator
+            ~     A-Wall Indicator
             
             4/19/18
 
