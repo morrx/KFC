@@ -1,7 +1,12 @@
 Changelogs:
 
       • Promethe.us
-      
+            
+            4/20/18
+            
+            +     Backtrack Hitbox
+            ~     Offscreen Indicator
+            
             4/19/18
 
             ~     Offscreen Indicator
