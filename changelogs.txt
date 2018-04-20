@@ -2,5 +2,8 @@ Changelogs:
 
       • Promethe.us
       
-            +     Test
-            -      Test
+            4/19/18
+
+            ~     Offscreen Indicator
+            ~     No Name
+            +     Optimizations
