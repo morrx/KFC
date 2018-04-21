@@ -11,12 +11,12 @@ Changelogs:
             
             4/20/18
             
-            [Added]     Hitbox
-            [Changed/Broken]   A-Wall Indicator
-            [Added]     Grenade Trajectory
-            [Added/Broken]    AnimLayer Resolver
-            [Fixed/Not Tested]      Offscreen Indicator
+            [Added] Hitbox
+            [Changed/Broken] A-Wall Indicator
+            [Added] Grenade Trajectory
+            [Added/Broken] AnimLayer Resolver
+            [Fixed/Not Tested] Offscreen Indicator
             
             4/19/18
 
-            [Fixed]     No Name fixed
+            [Fixed] No Name fixed
