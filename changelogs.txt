@@ -5,7 +5,7 @@ Changelogs:
             4/20/18
             
             [Added]     Hitbox (on player_hurt listener)
-            [Changed]   A-Wall Indicator
+            [Changed/Broken]   A-Wall Indicator
             [Added]     Grenade Trajectory
             
             4/19/18
