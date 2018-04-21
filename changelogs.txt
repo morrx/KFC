@@ -7,6 +7,7 @@ Changelogs:
             [Added]     On Hit-Hitbox
             [Changed/Broken]   A-Wall Indicator
             [Added]     Grenade Trajectory
+            [Fixed/Not Tested]      Offscreen Indicator
             
             4/19/18
 
