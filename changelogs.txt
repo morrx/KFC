@@ -5,12 +5,9 @@ Changelogs:
             4/20/18
             
             +     Hitbox (on player_hurt)
-            ~     Offscreen Indicator
             ~     A-Wall Indicator
             -      HWID Check (only for DLL file)
             
             4/19/18
 
-            ~     Offscreen Indicator
             ~     No Name
-            +     Optimizations
