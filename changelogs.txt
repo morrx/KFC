@@ -4,9 +4,9 @@ Changelogs:
             
             4/20/18
             
-            +     Hitbox (on player_hurt)
-            ~     A-Wall Indicator
+            +     Hitbox (on player_hurt listener)
+            +     A-Wall Indicator changed to a rectangle
             
             4/19/18
 
-            ~     No Name
+            +     No Name fixed
