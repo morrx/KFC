@@ -6,7 +6,6 @@ Changelogs:
             
             +     Hitbox (on player_hurt)
             ~     A-Wall Indicator
-            -      HWID Check (only for DLL file)
             
             4/19/18
 
