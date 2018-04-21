@@ -4,7 +4,7 @@ Changelogs:
             
             4/20/18
             
-            +     Backtrack Hitbox
+            +     Hitbox (on player_hurt)
             ~     Offscreen Indicator
             ~     A-Wall Indicator
             -      HWID Check (only for DLL file)
