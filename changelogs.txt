@@ -2,9 +2,16 @@ Changelogs:
 
       • Promethe.us
             
+            4/21/18
+            
+            [Fixed] FullUpdate (Skinchanger)
+            [Added] Auto Revolver
+            [Fixed] Offscreen Indicator Size
+            [Fixed] Config->Save Crash
+            
             4/20/18
             
-            [Added]     On Hit-Hitbox
+            [Added]     Hitbox
             [Changed/Broken]   A-Wall Indicator
             [Added]     Grenade Trajectory
             [Added/Broken]    AnimLayer Resolver
