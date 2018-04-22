@@ -2,6 +2,12 @@ Changelogs:
 
       • Promethe.us
             
+            4/22/18
+            
+            [Removed] Offscreen Indicator
+            [Removed] Legit AA
+            [Fixed] A-Wall Indicator
+            
             4/21/18
             
             [Fixed] FullUpdate (Skinchanger)
