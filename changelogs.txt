@@ -2,6 +2,15 @@ Changelogs:
 
       • Promethe.us
             
+            4/27/18
+            
+            [Added] Screen Indicator
+            [Fixed] Config->Load
+            [Fixed] FullUpdate
+            [Fixed] A-Wall Indicator
+            [Removed] AnimLayer resolver
+            [Removed] Grenade Trajectory
+            
             4/22/18
             
             [Removed] Offscreen Indicator
